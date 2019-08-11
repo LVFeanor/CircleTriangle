@@ -1,0 +1,6 @@
+C:\Users\James Kirk\source\repos\SCircleTriangle\SCircleTriangle\obj\Debug\SCircleTriangle.csprojAssemblyReference.cache
+C:\Users\James Kirk\source\repos\SCircleTriangle\SCircleTriangle\obj\Debug\SCircleTriangle.csproj.CoreCompileInputs.cache
+C:\Users\James Kirk\source\repos\SCircleTriangle\SCircleTriangle\bin\Debug\SCircleTriangle.dll
+C:\Users\James Kirk\source\repos\SCircleTriangle\SCircleTriangle\bin\Debug\SCircleTriangle.pdb
+C:\Users\James Kirk\source\repos\SCircleTriangle\SCircleTriangle\obj\Debug\SCircleTriangle.dll
+C:\Users\James Kirk\source\repos\SCircleTriangle\SCircleTriangle\obj\Debug\SCircleTriangle.pdb
